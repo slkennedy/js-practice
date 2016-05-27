@@ -1,6 +1,6 @@
 # Choose Goose Store
 
-1. Use the [included HTML file](https://github.com/slkennedy/js-practice/One/index.html)
+1. Use the [included HTML file](https://github.com/slkennedy/js-practice/blob/master/One/index.html)
 2. Create a JS file to hold your program and include it in the HTML file 
 3. Make your JS program accomplish the following...
 
